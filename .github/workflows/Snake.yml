@@ -51,8 +51,3 @@ jobs:
                   build_dir: dist
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-                  - name: Set output variables
-        run: |
-          echo "GIF_OUTPUT_PATH=dist/github-contribution-grid-snake.gif" >> $GITHUB_ENV
-          echo "SVG_OUTPUT_PATH=dist/github-contribution-grid-snake.svg" >> $GITHUB_ENV
