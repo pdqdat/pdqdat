@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Dat Phan.
 
-![Snake SVG](https://github.com/pdqdat/pdqdat/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/pdqdat/pdqdat/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 **pdqdat/pdqdat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
