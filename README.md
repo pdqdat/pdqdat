@@ -10,7 +10,7 @@
         <img align="center" src="./assets/facebook.svg" alt="facebook" height="30" width="40" />
     </a>
     <a href="https://twitter.com/pdquocdat" target="blank">
-        <img align="center" src="./assets/X.svg" alt="X" height="30" width="40" />
+        <img align="center" src="./assets/X.svg" alt="X" height="30" />
     </a>
 </p>
 
