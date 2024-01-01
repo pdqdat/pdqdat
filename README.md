@@ -3,15 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a
-        href="https://www.facebook.com/profile.php?id=100011347858353"
-        target="blank"
-    >
-        <img align="center" src="./assets/facebook.svg" alt="facebook" height="30" width="40" />
-    </a>
-    <a href="https://twitter.com/pdquocdat" target="blank">
-        <img align="center" src="./assets/X.svg" alt="X" height="30" />
-    </a>
+    <a href="https://www.facebook.com/profile.php?id=100011347858353" target="blank"><img align="center" src="./assets/facebook.svg" alt="facebook" height="30" width="40" /></a>
+    <a href="https://twitter.com/pdquocdat" target="blank"><img align="center" src="./assets/X.svg" alt="X" height="30" /></a>
 </p>
 
 ![Snake SVG](https://github.com/pdqdat/pdqdat/blob/output/github-contribution-grid-snake.svg)
